@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=swap');
+
+body {
+    font-family: "rubik doodle triangles",sans-serif;
+    text-align: center;
+}
+
+.navcontainer {
+    background-color: #c4beb5;
+    color: #1b1e18;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
